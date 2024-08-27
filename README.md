@@ -1,2 +1,3 @@
 # 2nd-test-repo
-testing flies movement in GitHub to Git.
+cloning files in GitHub to Git.
+learning to step by step - adding commiting and pushing.
